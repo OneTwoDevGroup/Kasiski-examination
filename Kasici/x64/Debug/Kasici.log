@@ -1,12 +1,14 @@
 ﻿  kasiski_examination.cpp
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(113): warning C4129: %: неизвестная escape-последовательность
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(131): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(134): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(137): warning C4129: %: неизвестная escape-последовательность
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
-c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(113): warning C4778: "printf": незавершенная строка форматирования "%"
+c:\users\lenovo\desktop\program\git\kasiski-examination\kasici\kasiski_examination.cpp(137): warning C4778: "printf": незавершенная строка форматирования "%"
   Kasici.vcxproj -> C:\Users\Lenovo\Desktop\program\Git\Kasiski-examination\x64\Debug\Kasiski_examination.exe
